@@ -1,0 +1,9 @@
+.blackbox{
+background-color: black;
+padding: 500px;
+}
+.whitebox{
+    padding: 500px;
+    
+    background-color: white;
+}
